@@ -93,9 +93,9 @@ Instead, I use a separate microcontroller to monitor the GPS.
 ### Misc
 * Power (6.5v - 12v)
 
-## Serial
+### Serial
 
-The serial port pinouts all use 6-pin headers and the pinout from the Arduino
+* The serial port pinouts all use 6-pin headers and the pinout from the Arduino
 boards.
 
 ## Circuit Description
