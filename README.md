@@ -26,8 +26,7 @@ the PID constants used in the main control program.
 I don't use this version anymore.
 
 * gpsdo-pid2, PID (Proportional, Integral, Derivitive) controller which
-disciplines an oscillator to a GPS.
-
+disciplines an oscillator to a GPS. 
 This has code for an Isotemp 134-10 OCXO and a FOX-801 VCO. This version is still a work in progress.
 
 ![Image of board wired up](https://raw.githubusercontent.com/glenoverby/GPSDO/master/doc/v1-debug.jpg)
