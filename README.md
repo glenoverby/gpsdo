@@ -1,6 +1,8 @@
 # gpsdo
 A GPS Disciplined Oscillator Controller
 
+**There is a newer version of this project in my 'gpsdo3' repository.**
+
 This is a microcontroller based GPS disciplined oscillator.
 
 The purpose of this device is to synchronize a 10MHz voltage controlled
